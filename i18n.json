@@ -1,0 +1,13 @@
+{
+  "locales": ["es-ES", "en-US"],
+  "defaultLocale": "es-ES",
+  "pages": {
+    "*": ["common", "nav"],
+    "/authentication/login": ["login-complete"],
+    "/authentication/register": ["login-complete"],
+    "/authentication/forgot-password": ["login-complete"],
+    "/": ["home"],
+    "/content/[slug]": ["content"],
+    "rgx:^/account": ["account"]
+  }
+}

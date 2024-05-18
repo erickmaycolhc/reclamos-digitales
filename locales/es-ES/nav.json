@@ -1,0 +1,19 @@
+{
+  "header-dashboard": "DASHBOARD",
+  "header-application": "APLICACIÓN",
+  "header-graphics": "GRÁFICOS",
+  "header-setting": "CONFIGURACIÓN",
+  "header-session": "SESIÓN",
+
+  "item-dashboard": "Dashboard",
+  "item-claims": "Reclamos",
+  "item-complaints": "Quejas",
+  "item-payments": "Pagos",
+  "item-report": "Reporte",
+  "item-profile": "Perfil",
+  "item-my-company": "Mis empresa",
+  "item-form": "Formulario",
+  "item-whatsapp": "Whatsapp",
+  "item-web": "Web",
+  "item-log-out": "Cerrar Sesión"
+}

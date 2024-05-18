@@ -1,0 +1,27 @@
+{
+  "title": "Signin to Your Account",
+  "description": "The number 1° system in claim book management",
+  "email": "Email",
+  "enter-your-email": "Enter your email",
+  "password": "Password",
+  "enter-your-password": "Enter your password",
+  "log-in": "Log In",
+  "forgot-password": "Forgot password?",
+  "register-here": "Register Here",
+  "dont-have-account": "Don't have an account? ",
+  "create-your-account": "Create Your Account",
+  "signup-to-create": "Signup to create, discover and connect with the global community",
+
+  "signup-for-free": "Signup for Free",
+  "description-register": "It's free to signup and only takes a minute.",
+  "name": "Name",
+  "enter-your-name": "Enter your Name",
+  "create-account": "Create Account",
+  "already-have-account": "Already have an account? ",
+
+  "reset-your-password": "Reset Your Password",
+  "request-reset-link": "Request reset link",
+  "did-you-remembered-your-password": "Did you remembered your password?",
+
+  "variable-example": "Using a variable {{count}}"
+}

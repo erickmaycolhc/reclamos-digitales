@@ -1,0 +1,19 @@
+{
+  "header-dashboard": "DASHBOARD",
+  "header-application": "APPLICATION",
+  "header-graphics": "GRAPHICS",
+  "header-setting": "SETTING",
+  "header-session": "SESSION",
+
+  "item-dashboard": "Dashboard",
+  "item-claims": "Claims",
+  "item-complaints": "complaints",
+  "item-payments": "Payments",
+  "item-report": "Report",
+  "item-profile": "Profile",
+  "item-my-company": "My company",
+  "item-form": "Form",
+  "item-whatsapp": "Whatsapp",
+  "item-web": "Web",
+  "item-log-out": "Logo ut"
+}
